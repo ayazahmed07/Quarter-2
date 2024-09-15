@@ -1,2 +1,1 @@
-# Quarter-2
- Next Js 
+# Quater-2-Nextjs
