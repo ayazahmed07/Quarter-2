@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "GIAIC",
+  title: "Amazon Clone",
   description: "Developed by Ayaz Ahmed",
 };
 
